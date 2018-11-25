@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>itsl@</String>
+        <String>focus</String>
+        <String>ial@</String>
+    </prefList>
+    <pref key="ExportTabDialog.SelectTiersMode">
+        <String>Tier</String>
+    </pref>
+    <prefList key="ExportPraatDialog.selectedTiers">
+        <String>itsl@</String>
+        <String>focus</String>
+        <String>ial@</String>
+    </prefList>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
+    <pref key="ExportPraatDialog.SelectTiersMode">
+        <String>Tier</String>
+    </pref>
+    <prefList key="ExportTabDialog.TierOrder">
+        <String>itsl@</String>
+        <String>focus</String>
+        <String>ial@</String>
+    </prefList>
+    <prefList key="ExportTabDialog.selectedTiers">
+        <String>itsl@</String>
+        <String>focus</String>
+        <String>ial@</String>
+    </prefList>
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1942,1042</Object>
+    </pref>
+    <prefList key="ExportPraatDialog.TierOrder">
+        <String>itsl@</String>
+        <String>focus</String>
+        <String>ial@</String>
+    </prefList>
+    <prefGroup key="TierColors">
+        <pref key="ial@">
+            <Object class="java.awt.Color">0,0,90</Object>
+        </pref>
+        <pref key="focus">
+            <Object class="java.awt.Color">90,0,160</Object>
+        </pref>
+        <pref key="itsl@">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+    </prefGroup>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">-11,-11</Object>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>ial@</String>
+    </pref>
+    <pref key="TextViewer.TierName">
+        <String>itsl@</String>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefList key="ExportTabDialog.HiddenTiers"/>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <prefList key="ExportPraatDialog.HiddenTiers"/>
+</preferences>

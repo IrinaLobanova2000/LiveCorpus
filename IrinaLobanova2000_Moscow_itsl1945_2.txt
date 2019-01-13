@@ -1,0 +1,534 @@
+# time_begin = 9.10
+
+itsl@
+
+# sent_id = 3
+# text = вспомнила один смешной случай / из детства / это было / тогда когда я училась в первом классе / были весенние каникулы март месяц светило яркое солнце / но еще лежал снег он только начинал / таять / аа...
+1	вспомнила	вспомянуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	один	один	NUM	_	Case=Nom|Gender=Masc	_	_	_	_
+3	смешной	смешной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	случай	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	из	из	ADP	_	_	_	_	_	_
+7	детства	детство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	тогда	тогда	ADV	_	Degree=Pos	_	_	_	_
+13	когда	когда	SCONJ	_	_	_	_	_	_
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+15	училась	учиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+16	в	в	ADP	_	_	_	_	_	_
+17	первом	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+18	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+21	весенние	весенний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+22	каникулы	каникулы	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+23	март	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+24	месяц	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+25	светило	ветить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+26	яркое	яркий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+27	солнце	солнце	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+28	/	/	PUNCT	_	_	_	_	_	_
+29	но	но	CCONJ	_	_	_	_	_	_
+30	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+31	лежал	лежать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+32	снег	снег	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+33	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+34	только	только	PART	_	_	_	_	_	_
+35	начинал	начинать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+36	/	/	PUNCT	_	_	_	_	_	_
+37	таять	таять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+38	/	/	PUNCT	_	_	_	_	_	_
+39	аа	аa	INTJ	_	_	_	_	_	_
+40	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 5
+# text = мы с подружками соседками по нашей квартире одна из которых была моей / по...
+1	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+2	с	с	ADP	_	_	_	_	_	_
+3	подружками	подружка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	_	_	_	_
+4	соседками	соседка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+5	по	по	ADP	_	_	_	_	_	_
+6	нашей	наш	DET	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+7	квартире	квартира	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+8	одна	один	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+9	из	из	ADP	_	_	_	_	_	_
+10	которых	который	PRON	_	Case=Gen	_	_	_	_
+11	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	по	по	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 7
+# text = ммм...
+1	ммм	мм	INTJ	_	_	_	_	_	_
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 9
+# text = одноклассницей / а вторая чуть постарше / решили купить / мороженое / мм...
+1	одноклассницей	одноклассница	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	а	а	CCONJ	_	_	_	_	_	_
+4	вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	чуть	чуть	ADV	_	Degree=Pos	_	_	_	_
+6	постарше	старший	ADJ	_	Degree=Cmp	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	решили	решить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	купить	купить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	мороженое	мороженое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	мм	мм	INTJ	_	_	_	_	_	_
+14	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 11
+# text = семья вот моей одноклассницы она жила более обеспеченно / и подружка обратилась к отцу / значит дать нам / денег но не сказала что мы хотим купить мороженое а сказала что мы хотим купить / шоколадку / отец отправил его...
+1	семья	семья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	_
+3	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+4	одноклассницы	одноклассница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+6	жила	жить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	более	более	ADV	_	Degree=Cmp	_	_	_	_
+8	обеспеченно	обеспеченно	ADV	_	Degree=Pos	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	и	и	CCONJ	_	_	_	_	_	_
+11	подружка	подружка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+12	обратилась	обратиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+13	к	к	ADP	_	_	_	_	_	_
+14	отцу	отец	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+17	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+18	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+21	но	но	CCONJ	_	_	_	_	_	_
+22	не	не	PART	_	_	_	_	_	_
+23	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+24	что	что	SCONJ	_	_	_	_	_	__	_	_	_
+25	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+26	хотим	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+27	купить	купить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+28	мороженое	мороженое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+29	а	а	CCONJ	_	_	_	_	_	_
+30	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	что	что	SCONJ	_	_	_	_	_	__	_	_	_	_	_	_	_
+32	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+33	хотим	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+34	купить	купить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+35	/	/	PUNCT	_	_	_	_	_	_
+36	шоколадку	шоколадка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+37	/	/	PUNCT	_	_	_	_	_	_
+38	отец	отец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+39	отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+40	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 13
+# text = ее / к жене / к ее...
+1	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	к	к	ADP	_	_	_	_	_	_
+4	жене	жена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	к	к	ADP	_	_	_	_	_	_
+7	ее	ee	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 15
+# text = к матери этой девочки / и та сказала что пойдет с папой покупать шоколадку и мама дала ей / десять рублей это были очень большие деньги по...
+1	к	к	ADP	_	_	_	_	_	_
+2	матери	мать	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+3	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+4	девочки	девочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	и	и	CCONJ	_	_	_	_	_	_
+7	та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+8	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	что	что	SCONJ	_	_	_	_	_
+10	пойдет	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	_
+11	с	с	ADP	_	_	_	_	_	_
+12	папой	папа	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+13	покупать	покупать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+14	шоколадку	шоколадка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+15	и	и	CCONJ	_	_	_	_	_	_
+16	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+17	дала	дать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+18	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	десять	десять	NUM	_	Case=Acc	_	_	_	_
+21	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+22	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+23	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+24	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+25	большие	большой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+26	деньги	деньги	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+27	по	по	ADP	_	_	_	_	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 17
+# text = нет не десять рублей это было сто рублей / это потом уже [нрзб] это было сто рублей / значит это были очень большие деньги / мы втроем ничего не сказав ее отцу / втроем пошли на угол Маросейки и Старосадского переулка и там в палатке / купили сто пачек мороженого
+1	нет	нет	INTJ	_	_	_	_	_
+2	не	не	PART	_	_	_	_	_	_
+3	десять	десять	NUM	_	Case=Acc	_	_	_	_
+4	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	сто	сто	NUM	_	Case=Nom	_	_	_	_
+8	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+11	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+12	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+13	[нрзб]	[нрзб]	X	_	_	_	_	_	SpaceAfter=No
+14	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+15	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	сто	сто	NUM	_	Case=Nom	_	_	_	_
+17	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	значит	значить	ADV	_	Degree=Pos	_	_	_	_
+20	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+21	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+22	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+23	большие	большой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+24	деньги	деньги	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+27	втроем	втроем	ADV	_	Degree=Pos	_	_	_	_
+28	ничего	ничто	PRON	_	Case=Gen	_	_	_	_
+29	не	не	PART	_	_	_	_	_	_
+30	сказав	сказать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	_	_	_	_
+31	ее	она	DET	_	_	_	_	_	_
+32	отцу	отец	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+33	/	/	PUNCT	_	_	_	_	_	_
+34	втроем	втроем	ADV	_	Degree=Pos	_	_	_	_
+35	пошли	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+36	на	на	ADP	_	_	_	_	_	_
+37	угол	угол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+38	Маросейки	Маросейка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+39	и	и	CCONJ	_	_	_	_	_	_
+40	Старосадского	Старосадский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+41	переулка	переулок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+42	и	и	CCONJ	_	_	_	_	_	_
+43	там	там	ADV	_	Degree=Pos	_	_	_	_
+44	в	в	ADP	_	_	_	_	_	_
+45	палатке	палатка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+46	/	/	PUNCT	_	_	_	_	_	_
+47	купили	купить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+48	сто	сто	NUM	_	Case=Acc	_	_	_	_
+49	пачек	пачка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+50	мороженого	мороженое	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+ial@
+
+# sent_id = 19
+# text = а сколько вам лет было?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	сколько	сколько	NUM	_	_	_	_	_	_
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	_
+4	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 21
+# text = это вот мы учились / первый класс значит мы кончали значит нам было около восьми лет еще не исполнилось а старшей / девочке постарше было лет одиннадцать / мы положили это в сетку тогда такие были / аа...
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+4	учились	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+7	класс	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+8	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+9	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+10	кончали	кончать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+12	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	_
+13	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+14	около	около	ADP	_	_	_	_	_	_
+15	восьми	восемь	NUM	_	Case=Gen	_	_	_	_
+16	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+17	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+18	не	не	PART	_	_	_	_	_	_
+19	исполнилось	исполниться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+20	а	а	CCONJ	_	_	_	_	_	_
+21	старшей	старший	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	девочке	девочка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+24	постарше	старший	ADJ	_	Degree=Cmp	_	_	_	_
+25	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+26	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+27	одиннадцать	одиннадцать	NUM	_	Case=Acc	_	_	_	_
+28	/	/	PUNCT	_	_	_	_	_	_
+29	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+30	положили	класть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+32	в	в	ADP	_	_	_	_	_	_
+33	сетку	сетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+34	тогда	тогда	ADV	_	Degree=Pos	_	_	_	_
+35	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+36	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+37	/	/	PUNCT	_	_	_	_	_	_
+38	аа	а	INTJ	_	_	_	_	_	_
+39	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 23
+# text = сетки и даже не знаю как объяснить / веревочные / ээ...
+1	сетки	сетка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+2	и	и	CCONJ	_	_	_	_	_	_
+3	даже	даже	PART	_	_	_	_	_	_
+4	не	не	PART	_	_	_	_	_	_
+5	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+6	как	как	ADV	_	Degree=Pos	_	_	_	_
+7	объяснить	объяснить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	веревочные	веревочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	ээ	ээ	INTJ	_	_	_	_	_	_
+12	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 25
+# text = с большими / дырами / сложили это мороженое / и / мм...
+1	с	с	ADP	_	_	_	_	_	_
+2	большими	большой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	дырами	дыра	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	сложили	сложить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	это	это	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+8	мороженое	мороженое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	и	и	CCONJ	_	_	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	мм	мм	INTJ	_	_	_	_	_	_
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 27
+# text = когда шли естественно мы не могли столько съесть пачек мы откусывали и бросали в ручьи в снег это мороженое / а вечером произошла разборка / мама девочки у от...
+1	когда	когда	SCONJ	_	_	_	_	_	_
+2	шли	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	естественно	естественно	ADV	_	Degree=Pos	_	_	_	_
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+5	не	не	PART	_	_	_	_	_	_
+6	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	столько	столько	ADV	_	Degree=Pos	_	_	_	_
+8	съесть	съесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+9	пачек	пачка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+11	откусывали	откусывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	и	и	CCONJ	_	_	_	_	_	_
+13	бросали	бросать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+14	в	в	ADP	_	_	_	_	_	_
+15	ручьи	ручей	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+16	в	в	ADP	_	_	_	_	_	_
+17	снег	снег	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+18	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+19	мороженое	мороженое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	а	а	CCONJ	_	_	_	_	_	_
+22	вечером	вечер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+23	произошла	произойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+24	разборка	разборка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+27	девочки	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+28	у	у	ADP	_	_	_	_	_	_
+29	от	отец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	
+30	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 29
+# text = спросила у отца сдачу / с этих денег / он ответил что...
+1	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	у	у	ADP	_	_	_	_	_	_
+3	отца	отец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+4	сдачу	сдача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	с	с	ADP	_	_	_	_	_	_
+7	этих	этот	DET	_	Case=Gen|Number=Plur	_	_	_	_
+8	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+11	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	что	что	SCONJ	_	_	_	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 31
+# text = он никаких денег не видел и за шоколадкой не ходил ну и тут с нами родители стали разбираться / что произошло
+1	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+2	никаких	никакой	DET	_	Case=Gen|Number=Plur	_	_	_	_
+3	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+4	не	не	PART	_	_	_	_	_	_
+5	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	и	и	PART	_	_	_	_	_	_
+7	за	за	ADP	_	_	_	_	_	_
+8	шоколадкой	шоколадка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+9	не	не	PART	_	_	_	_	_	_
+10	ходил	ходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	ну	ну	PART	_	_	_	_	_	_
+12	и	и	CCONJ	_	_	_	_	_	_
+13	тут	тут	ADV	_	Degree=Pos	_	_	_	_
+14	с	с	ADP	_	_	_	_	_	_
+15	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	_	_	_	_
+16	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+17	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+18	разбираться	разбираться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	что	что	PRON	_	_	_	_	_	_
+21	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+ial@
+
+# sent_id = 33
+# text = и оказалось что вы все...
+1	и	и	CCONJ	_	_	_	_	_	_
+2	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+3	что	что	SCONJ	_	Case=Acc	_	_	_	_
+4	вы	вы	PRON	_	_	_	_	_
+5	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 35
+# text = да и оказалось мы что все деньги потратили на мороженое которое фактически не съели а выбросили
+1	да	да	CCONJ	_	_	_	_	_	_
+2	и	и	PART	_	_	_	_	_	_
+3	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+5	что	что	SCONJ	_	_	_	_	_	_
+6	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	_
+7	деньги	деньги	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+8	потратили	тратить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	на	на	ADP	_	_	_	_	_	_
+10	мороженое	мороженое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+11	которое	который	PRON	_	Case=Acc	_	_	_	_
+12	фактически	фактически	ADV	_	Degree=Pos	_	_	_	_
+13	не	не	PART	_	_	_	_	_	_
+14	съели	съесть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	а	а	CCONJ	_	_	_	_	_	_
+16	выбросили	выбросить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+
+[Все смеются]
+
+ial@
+
+# sent_id = 37
+# text = а чем вы в детстве занимались в свободное время?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	чем	что	PRON	_	Case=Ins	_	_	_	_
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	детстве	детство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+6	занимались	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+7	в	в	ADP	_	_	_	_	_	_
+8	свободное	свободный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+9	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 39
+# text = в свободное время мы во п...
+1	в	в	ADP	_	_	_	_	_	_
+2	свободное	свободный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+5	во	в	ADP	_	_	_	_	_	_
+6	п	п	INTJ	_	_	_	_	_	_
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 41
+# text = мы жили недалеко от Чистых прудов ходили кататься зимой ходили кататься на коньках / там у нас еще было два кинотеатра Колизей и Аврора которые мы очень любили / сейчас помещение Колизея театр Современник
+1	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+2	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	недалеко	недалеко	ADV	_	Degree=Pos	_	_	_	_
+4	от	от	ADP	_	_	_	_	_	_
+5	Чистых	чистый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+6	прудов	пруд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+7	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	кататься	кататься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+9	зимой	зима	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+10	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	кататься	кататься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+12	на	на	ADP	_	_	_	_	_	_
+13	коньках	конек	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	там	там	ADV	_	Degree=Pos	_	_	_	_
+16	у	у	ADP	_	_	_	_	_	_
+17	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+18	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+19	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+20	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	_
+21	кинотеатра	кинотеатр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+22	Колизей	Колизей	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+23	и	и	CCONJ	_	_	_	_	_	_
+24	Аврора	Аврор	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+25	которые	который	PRON	_	Case=Acc	_	_	_	_
+26	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+27	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+28	любили	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+31	помещение	помещение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+32	Колизея	Колизей	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+33	театр	театр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+34	Современник	современник	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n
+

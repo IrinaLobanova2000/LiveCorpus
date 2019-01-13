@@ -1,0 +1,424 @@
+# time_begin = 5:52
+
+itsl@
+
+# sent_id = 3
+# text = папа мой был инженер / очень талантливый но он очень много времени проводил в командировках / потому что он / а...
+1	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	инженер	инженер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+7	талантливый	талантливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+8	но	но	CCONJ	_	_	_	_	_	_
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+10	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+11	много	много	ADV	_	Degree=Pos	_	_	_	_
+12	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+13	проводил	проводить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+14	в	в	ADP	_	_	_	_	_	_
+15	командировках	командировка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+18	что	что	SCONJ	_	_	_	_	_	_
+19	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	а	а	INTJ	_	_	_	_	_	_
+22	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 5
+# text = вначале проектировал а потом занимался / именно / строительством / а / мама / в то время когда я была маленькой не работала / а потом / э...
+1	вначале	вначале	ADV	_	Degree=Pos	_	_	_	_
+2	проектировал	проектировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	а	а	CCONJ	_	_	_	_	_	_
+4	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+5	занимался	заниматься	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	именно	именно	PART	_	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	строительством	строительство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	а	а	CCONJ	_	_	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	в	в	ADP	_	_	_	_	_	_
+16	то	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+17	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+18	когда	когда	SCONJ	_	_	_	_	_	_
+19	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+20	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+21	маленькой	маленький	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+22	не	не	PART	_	_	_	_	_	_
+23	работала	работать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	а	а	CCONJ	_	_	_	_	_	_
+26	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+27	/	/	PUNCT	_	_	_	_	_	_
+28	э 		INTJ	_	_	_	_	_	_
+29	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+31  .	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+itsl@
+
+# sent_id = 7
+# text = она по образованию была инженер-полиграфист / окончила Полиграфический институт а папа закончил Бауманский / институт / но потом папа у нас рано умер и мама стала / пошла / работать
+1	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+2	по	по	ADP	_	_	_	_	_	_
+3	образованию	образование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	_
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	инженер	инженер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+7	полиграфист	полиграфист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	окончила	окончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	Полиграфический	полиграфический	PROPN	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+11	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+12	а	а	CCONJ	_	_	_	_	_	_
+13	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+14	закончил	закончить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	Бауманский	Бауманский	PROPN	_	Animacy=Inan|Case|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	но	но	CCONJ	_	_	_	_	_	_
+20	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+21	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+22	у	у	ADP	_	_	_	_	_	_
+23	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+24	рано	рано	ADV	_	Degree=Pos	_	_	_	_
+25	умер	умереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+26	и	и	CCONJ	_	_	_	_	_	_
+27	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+28	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	пошла	пойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	/	/	PUNCT	_	_	_	_	_	_
+32	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+ial@
+
+# sent_id = 9
+# text = аааа / так / где ты училась?
+1	аааа	аааa	INTJ	_	_	_	_	_	_
+3	так	так	ADV	_	Degree=Pos	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	где	где	ADV	_	Degree=Pos	_	_	_	_
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+7	училась	учиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 11
+# text = значит я училась в триста двадцать девятой школе / которая находилась в Колпачном переулке как раз из Старосадского нужно было перейти / проходным двором где находилась лютеранская церковь и попадал в Кор...
+1	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+3	училась	учиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	триста	триста	NUM	_	Case=Acc	_	_	_	_
+6	двадцать	двадцать	NUM	_	Case=Acc	_	_	_	_
+7	девятой	девятый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+8	школе	школа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	которая	который	PRON	_	Case=Nom	_	_	_	_
+11	находилась	находиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+12	в	в	ADP	_	_	_	_	_	_
+13	Колпачном	Колпачный	PROPN	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+14	переулке	переулок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+15	как	как	SCONJ	_	_	_	_	_	_
+16	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+17	из	из	ADP	_	_	_	_	_	_
+18	Старосадского	Старосадский	PROPN	_	_	_	_	_	_
+19	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+20	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+21	перейти	перейти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	проходным	проходной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+24	двором	двор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+25	где	где	ADV	_	Degree=Pos	_	_	_	_
+26	находилась	находиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+27	лютеранская	лютеранский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+28	церковь	церковь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+29	и	и	CCONJ	_	_	_	_	_	_
+30	попадал	попадать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	в	в	ADP	_	_	_	_	_	_
+32	Кор	Колпачный	PROPN	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+33	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 13
+# text = Колпачный переулок / а / после / того как я закончила школу я поступила в педагогический институт на химический факультет / но в школе не работала потому что к тому времени когда я закончила институт я уже вышла замуж / мест в школе не было / и я стала работать в научно-исследовательском институте
+1	Колпачный	Колпачный	PROPN	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+2	переулок	переулок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	а	а	CCONJ	_	_	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	после	после	ADP	_	_	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	того	то	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+9	как	как	SCONJ	_	_	_	_	_	_
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+11	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+14	поступила	поступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	в	в	ADP	_	_	_	_	_	_
+16	педагогический	педагогический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+17	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+18	на	на	ADP	_	_	_	_	_	_
+19	химический	химический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+20	факультет	факультет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	но	но	CCONJ	_	_	_	_	_	_
+23	в	в	ADP	_	_	_	_	_	_
+24	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+25	не	не	PART	_	_	_	_	_	_
+26	работала	работать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+27	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+28	что	что	SCONJ	_	_	_	_	_	_
+29	к	к	ADP	_	_	_	_	_	_
+30	тому	тот	DET	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	_
+31	времени	время	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	_
+32	когда	когда	SCONJ	_	_	_	_	_	_
+33	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+34	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+35	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+36	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+37	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+38	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+39	замуж	замуж	ADV	_	Degree=Pos	_	_	_	_
+40	/	/	PUNCT	_	_	_	_	_	_
+41	мест	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+42	в	в	ADP	_	_	_	_	_	_
+43	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+44	не	не	PART	_	_	_	_	_	_
+45	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+46	/	/	PUNCT	_	_	_	_	_	_
+47	и	и	CCONJ	_	_	_	_	_	_
+48	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+49	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+50	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+51	в	в	ADP	_	_	_	_	_	_
+52	научно-исследовательском	научно-исследовательский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+53	институте	институт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+ial@
+
+# sent_id = 15
+# text = а почему именно туда / ээ...
+1	а	а	CCONJ	_	_	_	_	_	_
+2	почему	почему	ADV	_	Degree=Pos	_	_	_	_
+3	именно	именно	PART	_	_	_	_	_	_
+4	туда	туда	ADV	_	Degree=Pos	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	ээ  ээ	INTJ	_	_	_	_	_	_
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+9	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+ial@
+
+# sent_id = 17
+# text = поступила / и почему выбрала эту профессию?
+1	поступила	поступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	и	и	CCONJ	_	_	_	_	_	_
+4	почему	почему	ADV	_	Degree=Pos	_	_	_	_
+5	выбрала	выбрать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+7	профессию	профессия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 19
+# text = в школе я училась очень хорошо / хо..
+1	в	в	ADP	_	_	_	_	_	_
+2	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	училась	учиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+5	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+6	хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	хо	хотя	SCONJ	_	_	_	_	_	_
+9	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+# sent_id = 21
+# text = хотя мои родители / в детстве когда я была маленькой очень переживали считали что я / наверно не смогу учиться в школе / я очень плохо говорила до трех лет / и / вообще не хотела до школы ничем заниматься / решать задачи единственная задача которую я решала / это / два человека сидят на шкафу прыгнули пошли в разные стороны когда они встретятся / поэтому родители мои очень
+1	хотя	хотя	SCONJ	_	_	_	_	_	_
+2	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+3	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	в	в	ADP	_	_	_	_	_	_
+6	детстве	детство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+7	когда	когда	SCONJ	_	_	_	_	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+9	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	маленькой	маленький	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+11	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+12	переживали	переживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	считали	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+14	что	что	SCONJ	_	_	_	_	_	_
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	наверно	наверно	ADV	_	Degree=Pos	_	_	_	_
+18	не	не	PART	_	_	_	_	_	_
+19	смогу	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	_
+20	учиться	учиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+21	в	в	ADP	_	_	_	_	_	_
+22	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+25	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+26	плохо	плохо	ADV	_	Degree=Pos	_	_	_	_
+27	говорила	говорить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+28	до	до	ADP	_	_	_	_	_	_
+29	трех	три	NUM	_	Case=Gen	_	_	_	_
+30	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+31	/	/	PUNCT	_	_	_	_	_	_
+32	и	и	CCONJ	_	_	_	_	_	_
+33	/	/	PUNCT	_	_	_	_	_	_
+34	вообще	вообще	ADV	_	Degree=Pos	_	_	_	_
+35	не	не	PART	_	_	_	_	_	_
+36	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+37	до	до	ADP	_	_	_	_	_	_
+38	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+39	ничем	ничто	PRON	_	Case=Ins	_	_	_	_
+40	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+41	/	/	PUNCT	_	_	_	_	_	_
+42	решать	решать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+43	задачи	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+44	единственная	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+45	задача	задача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+46	которую	который	PRON	_	Case=Acc	_	_	_	_
+47	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+48	решала	решать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+49	/	/	PUNCT	_	_	_	_	_	_
+50	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+51	/	/	PUNCT	_	_	_	_	_	_
+52	два	два	NUM	_	Case=Nom|Gender=Masc	_	_	_	_
+53	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+54	сидят	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+55	на	на	ADP	_	_	_	_	_	_
+56	шкафу	шкаф	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+57	прыгнули	прыгнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+58	пошли	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+59	в	в	ADP	_	_	_	_	_	_
+60	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+61	стороны	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+62	когда	когда	SCONJ	_	_	_	_	_	_
+63	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+64	встретятся	встретиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	_
+65	/	/	PUNCT	_	_	_	_	_	_
+66	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+67	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+68	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+69	очень	очень	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+ial@
+
+# sent_id = 23
+# text = а какой ответ?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	ответ	ответ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+itsl@
+
+[Смеется]
+
+# sent_id = 25
+# text = ответ не был найден / поэтому мои родители очень расстраивались / но / в школе я училась очень хорошо окончила / закончила школу с серебряной медалью / но / мне очень плохо / давалось черчение / и поэтому ни в какой технический вуз я поступить не могла / выбрала химический факультет / университета / и хотя я ха...
+1	ответ	ответ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	не	не	PART	_	_	_	_	_	_
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	найден	найти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+7	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+8	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+9	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+10	расстраивались	расстраиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	но	но	CCONJ	_	_	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	в	в	ADP	_	_	_	_	_	_
+15	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+17	училась	учиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+18	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+19	хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	_
+20	окончила	окончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+23	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+24	с	с	ADP	_	_	_	_	_	_
+25	серебряной	серебряный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+26	медалью	медаль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+27	/	/	PUNCT	_	_	_	_	_	_
+28	но	но	CCONJ	_	_	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+31	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+32	плохо	плохо	ADV	_	Degree=Pos	_	_	_	_
+33	/	/	PUNCT	_	_	_	_	_	_
+34	давалось	даваться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_
+35	черчение	черчение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+36	/	/	PUNCT	_	_	_	_	_	_
+37	и	и	CCONJ	_	_	_	_	_	_
+38	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+39	ни	ни	PART	_	_	_	_	_	_
+40	в	в	ADP	_	_	_	_	_	_
+41	какой	какой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+42	технический	технический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+43	вуз	вуз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+44	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+45	поступить	поступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+46	не	не	PART	_	_	_	_	_	_
+47	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+48	/	/	PUNCT	_	_	_	_	_	_
+49	выбрала	выбрать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+50	химический	химический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+51	факультет	факультет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+52	/	/	PUNCT	_	_	_	_	_	_
+53	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+54	/	/	PUNCT	_	_	_	_	_	_
+55	и	и	CCONJ	_	_	_	_	_	_
+56	хотя	хотя	SCONJ	_	_	_	_	_	_
+57	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+58	хо	хорошо	ADV	_	Degree=Pos	_	_	_	_
+59	...	...	PUNCT	_	_	_	_	_	SpaceAfter=No
+
+itsl@
+
+# sent_id = 27
+# text = хорошо сдала экзамены / ну в общем не прошла туда и пошла в педагогический на химический факультет
+1	хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	_
+2	сдала	сдать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	экзамены	экзамен	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	ну	ну	PART	_	_	_	_	_	_
+6	в	в	ADP	_	_	_	_	_	_
+7	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+8	не	не	PART	_	_	_	_	_	_
+9	прошла	пройти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	туда	туда	ADV	_	Degree=Pos	_	_	_	_
+11	и	и	CCONJ	_	_	_	_	_	_
+12	пошла	пойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	педагогический	педагогический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+15	на	на	ADP	_	_	_	_	_	_
+16	химический	химический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+17	факультет	факультет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n
+
